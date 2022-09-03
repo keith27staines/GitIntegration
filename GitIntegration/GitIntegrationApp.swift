@@ -6,6 +6,7 @@
 //
 
 // added branch2 comment
+// Branch1 added this comment
 
 import SwiftUI
 
